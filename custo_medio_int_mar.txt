@@ -1,0 +1,9 @@
+Laringite e traqueíte agudas;650.15
+Pneumonia;2260.52
+Bronquite aguda e bronquiolite;1294.73
+Outras doenças dos seios paranasais;1914.95
+Doenças crônicas das amígdalas e adenóides;1138.26
+Outras doenças do trato respiratório superior;384.69
+DPOC (Bronquite enfisema etc);594.22
+Asma;895.66
+Outras doenças do aparelho respiratório;3488.24

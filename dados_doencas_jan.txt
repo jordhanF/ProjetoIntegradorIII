@@ -1,0 +1,12 @@
+Faringite e amigdalite aguda;9;9;18
+Laringite e traqueíte agudas;5;5;10
+Gripe;17;16;33
+Pneumonia;396;375;771
+Bronquite aguda e bronquiolite;53;44;97
+Sinusite crônica;2;1;3
+Outras doenças dos seios paranasais;31;19;50
+Doenças crônicas das amígdalas e adenóides;51;48;99
+Outras doenças do trato respiratório superior;19;10;29
+DPOC (Bronquite enfisema etc);49;56;105
+Asma;49;42;91
+Outras doenças do aparelho respiratório;215;162;377

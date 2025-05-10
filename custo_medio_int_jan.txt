@@ -1,0 +1,12 @@
+Faringite aguda e amigdalite aguda;399.14
+Laringite e traqueíte agudas;4111.90
+Influenza (gripe);1906.69
+Pneumonia;3309.17
+Bronquite aguda e bronquiolite;1213.03
+Sinusite crônica;1187.41
+Outras doenças dos seios paranasais;1402.48
+Doenças crônicas das amígdalas e adenóides;980.33
+Outras doenças do trato respiratório superior;314.25
+DPOC (Bronquite enfisema etc);2156.87
+Asma;917.56
+Outras doenças do aparelho respiratório;3768.74

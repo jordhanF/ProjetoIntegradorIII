@@ -26,6 +26,6 @@ Utilizando **Python**, **pandas**, **matplotlib** e **seaborn**, o projeto apres
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
-- Jupyter Notebook (opcional)
+- Jupyter Notebook
 
 ---
